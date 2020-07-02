@@ -30,7 +30,8 @@ namespace HTTPMethods.Controllers
         [HttpPost]
         public User Post([FromBody] User user)
         {
-            _users.Add(user);
+
+            _users.Add(user); 
             return user;
         }
 
