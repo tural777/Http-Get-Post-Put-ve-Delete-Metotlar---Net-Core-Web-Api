@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "37oe3be+29jiwDchX1qRJ7/WP8Cci43HDkF6F10twAaOKE/dAFuh4medtoa0EC4ITYYYLhr5cvrkzyAkiXS6Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tural\\source\\repos\\HTTPMethods\\HTTPMethods\\HTTPMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tural\\.nuget\\packages\\bogus\\29.0.2\\bogus.29.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
